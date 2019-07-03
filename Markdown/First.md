@@ -101,3 +101,6 @@ at the end of each line
 
 * :+1:
 * :shipit:
+
+### StrikeThrough
+~Striked text~
