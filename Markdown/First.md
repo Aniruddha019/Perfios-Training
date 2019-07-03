@@ -78,14 +78,14 @@ at the end of each line
 ### Checklist
 
 - [ ] Mercury
-- [x] Venus
-- [x] Earth 
+- [ ] Venus
+- [x] Earth
 - [x] Mars
 - [ ] Jupiter
 - [ ] Saturn
 - [ ] Uranus
 - [ ] Neptune
-- [ ] Comet Haley
+- [ ] Pluto
 
 
 
@@ -97,4 +97,7 @@ at the end of each line
 
 ```
 
-### Syntax Highlighting
+### Emojis
+
+* :+1:
+* :shipit:
