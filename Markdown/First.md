@@ -75,6 +75,19 @@ at the end of each line
 | col 2 |    centered   |   $512 |
 | col 3 | right-aligned |    $31 |
 
+### Checklist
+
+- [ ] Mercury
+- [x] Venus
+- [x] Earth 
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
+
+
 
 ### Inline code
 
