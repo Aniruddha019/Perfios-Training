@@ -57,6 +57,25 @@ This is a paragraph
 This has soft breaks inserted with two spaces  
 at the end of each line
 
+### Tables
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
+
+|H1   |H2   |H3   |H4   |H5   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 |  left-aligned | $50 |
+| col 2 |    centered   |   $512 |
+| col 3 | right-aligned |    $31 |
+
+
 ### Inline code
 
 ```
