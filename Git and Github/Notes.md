@@ -20,7 +20,6 @@ Advantages of DVCS-
 * Create Repo
   * **git init** - Initialize git local repository. This will      create a .git folder with all the necessary objects.
 * Sync Repo  
-
  ![Sync repo](git3.jpg)
 
    * **git remote add origin ["repository_link"]** - syncs local repository with central repository.
