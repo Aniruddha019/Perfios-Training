@@ -1,5 +1,8 @@
 ## Git and Github
 
+#### Resources 
+* [Edureka](https://www.youtube.com/watch?v=xuB1Id2Wxak&t=2859s)
+
 #### Definition
 
 ![What is git](git2.jpg)
