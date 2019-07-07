@@ -38,7 +38,7 @@ Advantages of DVCS-
  Options -
    * -a for commiting all files
    * -m for message
- * **git log** - log of all commands and Operations
+ * **git log** - log of all commands and Operations  
  ![log](git4.jpg)  
 
 * Parallel Development  
