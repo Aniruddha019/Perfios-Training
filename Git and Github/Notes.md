@@ -26,7 +26,7 @@ Advantages of DVCS-
    * **git pull origin master** - pulls the content of central repo to the local repo.
 
    (_faced issues first time_: fatal error - protocol 'https' not supported. restarting the bash worked)
-   * **git push** -
+   * **git push origin [branch_name]** - Pushing files from local to remote repository
 
 * Making Changes
   * **git status** - used to view and keep track of indexed/staged and non-staged files. Also keeps track of modified files.
@@ -44,3 +44,12 @@ Advantages of DVCS-
  Branches are pointers to a specific commit. Branches are of 2 types - local and remote
 
    * **git branch [branch_name]** (while in master) - This will create a new branch from master named branch_name
+   * **git checkout [branch_name]**
+   * **git merge [branch_name]** (while in master) - This will merge branch_name to master
+   ![merge consequences](git5.jpg)
+   * **git rebase [branch_name]** (while in master) - it will attach the branch_name to tip of master in a linear workflow.  
+   ![Rebase](git6.jpg)
+
+* Generating Keys
+  * **ssh-keygen** - generates ssh Keys
+  * **ssh -T git@github.com** - Authenticates ssh key  
