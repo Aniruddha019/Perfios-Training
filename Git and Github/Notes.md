@@ -23,11 +23,11 @@ Advantages of DVCS-
 
  ![Sync repo](git3.jpg)
 
-  * **git remote add origin ["repository_link"]** - syncs local repository with central repository.
-  * **git pull origin master** - pulls the content of central repo to the local repo.
+   * **git remote add origin ["repository_link"]** - syncs local repository with central repository.
+   * **git pull origin master** - pulls the content of central repo to the local repo.
 
    (_faced issues first time_: fatal error - protocol 'https' not supported. restarting the bash worked)
-  * **git push** -
+   * **git push** -
 
 * Making Changes
   * **git status** - used to view and keep track of indexed/staged and non-staged files. Also keeps track of modified files.
