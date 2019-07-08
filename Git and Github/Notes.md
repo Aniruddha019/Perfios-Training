@@ -35,6 +35,7 @@ Advantages of DVCS-
  ![Sync repo](git3.jpg)
 
    * **git remote add origin ["repository_link"]** - syncs local repository with central repository.
+   * **git clone [url] .** - Clones remote repo to local repo
    * **git pull origin master** - pulls the content of central repo to the local repo.
 
    (_faced issues first time_: fatal error - protocol 'https' not supported. restarting the bash worked)
