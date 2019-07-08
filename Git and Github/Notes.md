@@ -1,6 +1,6 @@
 ## Git and Github
 
-#### Resources 
+#### Resources
 * [Corey Schafer](https://www.youtube.com/watch?v=HVsySz-h9r4)
 * [Edureka](https://www.youtube.com/watch?v=xuB1Id2Wxak&t=2859s)
 
@@ -20,6 +20,13 @@ Advantages of DVCS-
 * Fetching to workspace is no problem
 
 #### Git Commands and Operations
+
+* Configuration
+  * **git --version** - gives the current version of git installed
+  * **git config --global user.name "Aniruddha019"** - Configuring username
+  * **git config --global user.email "aniruddha019@gmail.com"** - Configuring email
+  * **git config --list** - To list all configuration values
+  * **git help <verb>** or **git <verb> --help** - Documentation for git command  
 
 * Create Repo
   * **git init** - Initialize git local repository. This will      create a .git folder with all the necessary objects.
