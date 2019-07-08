@@ -30,6 +30,7 @@ Advantages of DVCS-
 
 * Create Repo
   * **git init** - Initialize git local repository. This will      create a .git folder with all the necessary objects.
+  * Place all files for git to ignore in .gitignore file. Can use wildcard characters.
 * Sync Repo  
  ![Sync repo](git3.jpg)
 
@@ -44,6 +45,7 @@ Advantages of DVCS-
   * **git add** - stages the files selected in the index for commit.
  Options -
     * (-A for commiting all files)
+  * **git reset** - Removes everything from Staging area
   * **git commit** - commiting files into the local repo. Cannot commit without message
  Options -
     * -a for commiting all files
