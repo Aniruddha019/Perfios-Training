@@ -40,6 +40,8 @@ Advantages of DVCS-
 
    (_faced issues first time_: fatal error - protocol 'https' not supported. restarting the bash worked)
    * **git push origin [branch_name]** - Pushing files from local to remote repository
+   * **git remote -v** - Lists information about remote Repo.
+   * **git branch -a** - Lists all branches remotely.
 
 * Making Changes
   * **git status** - used to view and keep track of indexed/staged and non-staged files. Also keeps track of modified files.
