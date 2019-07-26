@@ -206,7 +206,7 @@
         - Unix Processes  
    * Discussion on Unix task
     
-   ### [11-July-2019 - Day 04]
+### [11-July-2019 - Day 04]
    
   * Bash Scripting
   * Mounting partition to sda1
@@ -221,13 +221,13 @@
     415  sudo mount -a
     416  lsblk
     
-   ### [12-July-2019 - Day 05]
-   - Shell Scripting
+### [12-July-2019 - Day 05]
+   - Shell ScriThe mypy utility is a static type checker for Python. It combines the benefits of dynamic typing and static typing. As you may know, the Python programming language is dynamically typed.pting
    - Mysql installation
    ```aidl
     sudo apt install mysql-server
    ```
-   ### [15-July-2019 - Day 06]
+### [15-July-2019 - Day 06]
    
    ##### Understanding htop Command
    
@@ -288,7 +288,7 @@
    - Data Manipulation Language
    - Data Query Language
 
-   ### [16-July-2019 - Day 07]
+### [16-July-2019 - Day 07]
    
    ##### Continuing Mysql
    
@@ -384,7 +384,7 @@
    3 rows in set, 1 warning (0.00 sec)
    ```
    
-   ### [17-July-2019 - Day 08]
+### [17-July-2019 - Day 08]
    
    #### Vim
    * Vim Reference
@@ -407,71 +407,72 @@
         - Executing Unix Commands in Vim
         - Vim Macros
    * Discussion on Vim Task
-<<<<<<< HEAD
    
-   ### [18-July-2019 - Day 09]
+### [18-July-2019 - Day 09]
    
    #### Java
-   * Java Reference
-       - [None](#)
-   * Java Topics
-       - Getting Started with Java
-           - Why Java?
-           - Java Virtual Machine
-           - Setting up Java
-           - Commandline Samples
-           - IDE
-       - Java Fundamentals
-           - Data Types
-           - Control Structures
-           - Classes and Objects
-           - Static keyword
-           - Methods
-           - Interfaces
-           - Exceptions
-           - Oops
-               - Inheritance
-               - Polymorphism
-               - Abstraction
-               - Encapsulation
-           - Generics
-           - Collections
-               - Hashing
-               - Lists
-               - Sets
-               - Maps
-               - Trees
-           - IO
-           - JDBC
-       - Advanced
-           - Garbage Collection
-           - Jvm Internals
-           - Cryptography
-           - Java8
-               - Lambdas
-               - Streams
-   * J2EE Topics
-       - Servlet Specification API
-       - JSP, JSF
-       - Tomcat
-       - Deploy sample web application
-       - JDO, JPA, Hibernate
-       - Dependency Injection
-       - Security for J2EE
-   * Java Tools
-       - IDE tools
-           - Sonarlint
-           - Google style guide
-           - Markdown navigator
-           - Debugger
-           - Maven
-           - Static Analysis
+   * Java session by Sagar
+   * Java exercise 1
+       - To generate n random numbers and calculate the execution time. 
+       - Task to try multithreading and reduce the execution time
+   * Hands-on Session on creating classes, creating objects, static methods and static variables. Calling class methods.
+   * Session on internal working during execution of java codes
    * Discussion on Java Task
 
-  ### [19-July-2019 - Day 10]
+### [19-July-2019 - Day 10]
+ * Java Exercise 2 
+     - Calculator program using Interfaces. 
+     - Creating jar files. 
+ * Hands-on session on Multi Threading.
+ 
+### [22-July-2019 - Day 11]
+
+#### Python
+* Python session by Vikash
+    - Python basics
+    
+    - Functions
+    
+    - Modules
+    
+    - Generators - A generator-function is like a normal function, but whenever it needs to generate a value, it  
+   does so using the yield keyword instead of return keyword. Alternatively, If the body of a function contains yield,  
+   the function automatically becomes a generator function.
    
-=======
+    - Comprehensions
+* Basics python exercises
+
+### [23-July-2019 - Day 12]
+* Python Intermediate and Advanced session by Vikash
+    - Map Function
+    - Lambdas
+    - Filter Functions
+    - Reduce Functions
+    - OOPs concepts
+    - Classes
+    - Getters and Setters
+    - Inheritance
+    - Exceptions
+* Intermediate and Advanced exercises
+* Discussion on Python Task
+
+### [24-July-2019 - Day 13]
+   * Python session by Vikash
+        - Closures
+        
+        - Decorators
+        
+        - Jupyter Notebooks
+        
+        - Mypy - The mypy utility is a static type checker for Python. It combines the benefits of dynamic typing and static typing.  
+        As we know, the Python programming language is dynamically typed.
+        
+        - Pylint - Pylint is a tool that checks for errors in Python code, tries to enforce a coding standard and looks for code smells. It  
+       can also look for certain type errors, it can recommend suggestions about how particular blocks can be refactored and  
+       can offer us details about the code’s complexity.
+       
+        - Yapf
+        - Python IDLE 
+   * Discussion on Python Task
 
 
-:%s/\s\+/,/g|:%s/$/\)/g|%s/^/insert into employees values \(/
->>>>>>> develop
