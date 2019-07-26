@@ -1,0 +1,103 @@
+# Description: Unix
+
+### Session Details
+* Unix Reference
+    - [Unix Commands Reference](https://github.com/vikash-india/UnixNotes2Myself/tree/develop/linux/commands)
+    - [Unix Shell Programming](https://github.com/vikash-india/UnixNotes2Myself/blob/develop/linux/concepts)
+* Unix Commands
+    - apg
+    - apropos
+    - basename
+    - bc
+    - bc
+    - cal
+    - cat
+    - cd
+    - chmod 
+    - chown
+    - cksum
+    - clear
+    - cp
+    - curl
+    - cut
+    - date
+    - diff
+    - dirname
+    - dirs
+    - echo
+    - false
+    - file
+    - find
+    - free
+    - gpg
+    - grep
+    - halt
+    - head
+    - history
+    - host
+    - hostname
+    - htop
+    - jq
+    - ln
+    - locate
+    - man
+    - md5sum
+    - mkdir
+    - mktemp
+    - mv
+    - nohup
+    - openssl
+    - passwd
+    - popd
+    - poweroff
+    - printf
+    - ps
+    - pushd
+    - pwd
+    - reboot
+    - rename
+    - rmdir
+    - rsync
+    - rsync_exclude_list
+    - rsync_include_list
+    - scp
+    - script
+    - sha1sum
+    - shutdown
+    - source
+    - ssh-keygen
+    - ssh-setup-client
+    - ssh-setup-config 
+    - ssh
+    - systemctl
+    - systemd
+    - tail
+    - tar
+    - telnet
+    - time
+    - touch
+    - tput
+    - tr
+    - true
+    - tty
+    - unalias
+    - uname
+    - urandom
+    - usermod
+    - watch
+    - wc
+    - wget
+    - whatis
+    - which
+    - who
+    - whoami
+    - yes
+* Unix Topics
+    - Unix Commands
+    - Understanding SSH Setup
+    - Understanding .bashrc
+    - Unix Filesystem
+    - File Permissions and Ownerships
+    - Unix Processes
+    - Unix Shell Programming
+* Discussion on Unix task

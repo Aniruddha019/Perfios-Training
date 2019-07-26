@@ -1,0 +1,24 @@
+#!/usr/bin/python
+
+# Description: A script to use Meld as an external diff tool in Git
+
+import sys
+import os
+
+# Steps
+# 1. Install MELD diff tool using the command
+#			sudo apt-get install meld
+# 2. Set Git External Diff Tool using the command
+#			git config --global diff.external meld
+# 3. Try launching the tool using the command
+#			git diff filename
+#    Note: Meld will open but it will complain about bad parameters. The problem is that Git sends its external diff
+#    viewer seven parameters when Meld only needs two of them; two filenames of files to compare. One way to fix it is
+#    to write a script to format the parameters before sending them to Meld.
+# 4. Write and save this script and add execute permission to this script
+# 5. Set the Git External Diff Tool to this script
+#			git config --global diff.external <PATH_TO_THIS_SCRIPT>
+# 6. Now try launching the tool using the command
+#			git diff filename
+
+os.system('meld "%s" "%s"' % (sys.argv[2], sys.argv[5]))
